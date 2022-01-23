@@ -1,0 +1,19 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-style: groove;
+   border-width: 10px;
+   
+}
+#BTN {
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
